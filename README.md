@@ -1,0 +1,3 @@
+# NeuralNetworkProject_FixMatch_rep
+This repo is for The Sapienza's Neural Network class final project. It consist in reproduce the results of FixMatch 
+In this repo you will find the dataset I used for this project, including CIFAR10 ...
